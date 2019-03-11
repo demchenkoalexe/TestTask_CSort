@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Folder for test_task with image
+image/
+result/
+
 # C extensions
 *.so
 
